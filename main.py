@@ -43,7 +43,7 @@ client.remove_command("help")
 async def help(ctx):
     message = (
         "**```js\n"
-        "⌬ Self SelfBot \n"
+        "⌬ Venom SelfBot \n"
         "• about \n"
         "• ping \n"
         "• prune\n"

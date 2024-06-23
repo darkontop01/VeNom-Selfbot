@@ -25,7 +25,7 @@ role_name = input("Give role names: ")
 your_name = input("What is your server name: ")
 activity = input("What will the status: ")
 
-client = commands.Bot(command_prefix=">", self_bot=True)
+client = commands.Bot(command_prefix=">", self_bot=false)
 
 @client.event
 async def on_ready():
